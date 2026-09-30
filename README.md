@@ -212,6 +212,26 @@ MAPE, MAE<br/>and RMSE
 
 ---
 
+## 📊 Project Visualizations
+
+### 1. NYC Taxi Pickup Demand Analysis
+
+This visualization shows the exploratory analysis of taxi pickup demand.
+
+![Taxi Demand Analysis](images/eda-demand-prediction-cell-71.png)
+
+### 2. NYC Pickup Locations Map
+
+A geographical visualization of taxi pickup locations across New York City.
+
+![NYC Pickup Locations](images/plot-map-cell-16.png)
+
+### 3. NYC Regions Visualization
+
+Visualization of the geographical regions created for the taxi demand prediction project.
+
+![NYC Regions](images/breaking-nyc-to-regions-cell-36.png)
+
 ## 🔄 5. Complete Project Workflow
 
 The project follows a sequential machine learning pipeline, starting from raw taxi records and ending with model evaluation and geographic visualization.
